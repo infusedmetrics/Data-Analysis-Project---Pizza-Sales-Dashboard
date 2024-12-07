@@ -5,10 +5,7 @@
 - [Project Overview](#project-overview)
 - [Data Sources](data-sources)
 - [Tools](tools)
-- [Data Cleaning/Preparation](data-cleaning/preparation)
-- [Exploratory Data Analysis](exploratory-data-analysis)
-- [Data Analsysis](data-analysis)
-- [Results/Findings](results/findings)
+- [Results](results)
 - [Recommendations](recommendations)
 - [Limitations](limitiations)
    
@@ -47,7 +44,7 @@ EDA involved exploring Pizza Sales Data to answer Key questions, such as:
 ### Data Analysis 
 
 
-### Results/Findings  
+### Results   
 
 The analaysis results are summarised as follows:
 1. Daily trend shows that the highest number of orders made on a given week is on a Friday.
