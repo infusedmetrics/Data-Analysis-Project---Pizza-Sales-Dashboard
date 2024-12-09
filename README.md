@@ -36,7 +36,7 @@ In the initial Data preparation phase, we performed the following tasks:
 ### Exploratory Data Analysis
 
 EDA involved exploring Pizza Sales Data to answer Key questions, such as:
-- what is overall sales trend?
+- what is the overall sales trend?
 - what pizza size/category are the top sellers?
 - what pizza size/category are the worst sellers?
 -  when are the peak sales period? Hourly/Daily/Quarterly
