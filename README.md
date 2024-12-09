@@ -7,7 +7,7 @@
 - [Tools](tools)
 - [Results](results)
 - [Recommendations](recommendations)
-- [Limitations](limitiations)
+- [Limitations](limitations)
    
 
 ## Project Overview 
@@ -64,7 +64,6 @@ ORDER BY pizza_size
 """
 
 
-
 ### Results   
 
 The analaysis results are summarised as follows:
@@ -83,5 +82,4 @@ Based on the analysis, we reccomend the following actions:
 
   ### Limitations
 
-  to be reviewed.
   
