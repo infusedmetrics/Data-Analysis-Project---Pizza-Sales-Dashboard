@@ -14,6 +14,11 @@
 
 The Pizza Sales Data Analyst project focuses on analyzing sales data and performance of a pizza business over the past year. By analysing various apects the data, we can leverage these findings to make data driven recommendations and gain a deeper understanding of the company's performance.
 
+![Screenshot 2024-12-07 180823](https://github.com/user-attachments/assets/fd716e3d-b1b2-4878-859c-6a17b9442bd9)
+
+
+
+
 ## Data Sources
 
 Pizza Sales Data: The primary Dataset used for this anyalsis is the 
