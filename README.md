@@ -43,6 +43,27 @@ EDA involved exploring Pizza Sales Data to answer Key questions, such as:
 
 ### Data Analysis 
 
+These are some examples of the code I've written to query the data to get some insights.
+
+Query for the Hourly trend of orders made.
+
+"""sql
+SELECT DATEPART(HOUR, order_time) as order_hours, COUNT(DISTINCT order_id) as total_orders
+from pizza_sales
+group by DATEPART(HOUR, order_time)
+order by DATEPART(HOUR, order_time)
+"""
+Query for percentage of Sales by Pizza size
+
+"""sql 
+SELECT pizza_size, CAST(SUM(total_price) AS DECIMAL(10,2)) as total_revenue,
+CAST(SUM(total_price) * 100 / (SELECT SUM(total_price) from pizza_sales) AS DECIMAL(10,2)) AS PCT
+FROM pizza_sales
+GROUP BY pizza_size
+ORDER BY pizza_size
+"""
+
+
 
 ### Results   
 
