@@ -3,11 +3,11 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Data Sources](data-sources)
-- [Tools](tools)
-- [Results](results)
-- [Recommendations](recommendations)
-- [Limitations](limitations)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
    
 
 ## Project Overview 
@@ -81,7 +81,7 @@ The analaysis results are summarised as follows:
 
 ### Recommendations 
 
-Based on the analysis, we reccomend the following actions:
+Based on the analysis, we recommend the following actions:
 - Invest in marketing and promotions during peak hours and days to maximise revenue.
 - Focus on expanding and promoting products like Classic Deluxe and BBQ Chicken Pizza.
 - Implement a customer segmentation strategy to target High-LIV customers effectively.
