@@ -1,4 +1,4 @@
-# SQL-DataAnalytics-Projects / PIZZA SALES 
+# DataAnalytics-Projects / PIZZA SALES EXCEL VISUAL DASHBOARD 
 
 ## Table of Contents
 
