@@ -21,7 +21,7 @@ The Pizza Sales Data Analyst project focuses on analyzing sales data and perform
 
 ## Data Sources
 
-Pizza Sales Data: The primary Dataset used for this anyalsis is the 
+Pizza Sales Data: The primary Dataset used for this anyalsis is the 'Pizza_Sales.csv' containing detailed information on each sale made by the business for the year.
 
 ## Tools
 
@@ -86,6 +86,5 @@ Based on the analysis, we recommend the following actions:
 - Focus on expanding and promoting products like Classic Deluxe and BBQ Chicken Pizza.
 - Implement a customer segmentation strategy to target High-LIV customers effectively.
 
-  ### Limitations
 
   
