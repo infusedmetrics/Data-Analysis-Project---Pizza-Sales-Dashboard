@@ -12,7 +12,10 @@
 
 ## Project Overview 
 
-The Pizza Sales Data Analyst project focuses on analyzing sales data and performance of a pizza business over the past year. By analysing various apects the data, we can leverage these findings to make data driven recommendations and gain a deeper understanding of the company's performance.
+ Pizamo, a pizza franchise with a chain of 13 stores in the United Kingdom. I'm partnering up with the head of operations to extract insights and deliver recommendations to improve their performance in the sales, product and marketing team for one of their many stores across the country.
+
+ ## Executive Summary 
+
 
 ![Screenshot 2024-12-07 180823](https://github.com/user-attachments/assets/fd716e3d-b1b2-4878-859c-6a17b9442bd9)
 
