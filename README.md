@@ -20,7 +20,7 @@ Key Findings:
 Peak Sales Periods - The busiest days are Fridays and Saturdays, with the highest order volumes occurring during evening hours (4 PM – 8 PM) and lunchtime (12 PM – 1 PM).
 Product Popularity - Large pizzas dominate sales, comprising 46% of total orders. Among the pizza categories, Classic Deluxe and BBQ Chicken generate the highest sales revenue.
 Consumer Preferences - Weekend evenings attract the most customers, suggesting a strong trend in family and social dining occasions.
-Pizamo can beneift from appling strategic marketing by enhancing marketing efforts during peak hours and days, especially Friday and Saturday evenings, to capitalize on high customer demand. Working on the porduct focus by expanding and promote popular items such as the Classic Deluxe and BBQ Chicken Pizza to drive sales further. Operational improvements to adjust staffing and inventory to align with peak sales periods.
+Pizamo can beneift from appling strategic marketing by enhancing marketing efforts during peak hours and days, especially Friday and Saturday evenings, to capitalize on high customer demand. Working on the product focus by expanding and promote popular items such as the Classic Deluxe and BBQ Chicken Pizza to drive sales further. Operational improvements to adjust staffing and inventory to align with peak sales periods.
 By implementing these strategies, Pizamo can not only maximize revenue but also strengthen its competitive position in the market.
 
 ![Screenshot 2024-12-07 180823](https://github.com/user-attachments/assets/fd716e3d-b1b2-4878-859c-6a17b9442bd9)
