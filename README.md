@@ -23,7 +23,8 @@ Consumer Preferences - Weekend evenings attract the most customers, suggesting a
 Pizamo can beneift from appling strategic marketing by enhancing marketing efforts during peak hours and days, especially Friday and Saturday evenings, to capitalize on high customer demand. Working on the product focus by expanding and promote popular items such as the Classic Deluxe and BBQ Chicken Pizza to drive sales further. Operational improvements to adjust staffing and inventory to align with peak sales periods.
 By implementing these strategies, Pizamo can not only maximize revenue but also strengthen its competitive position in the market.
 
-![Screenshot 2024-12-07 180823](https://github.com/user-attachments/assets/fd716e3d-b1b2-4878-859c-6a17b9442bd9)
+![image](https://github.com/user-attachments/assets/274d0663-ea93-4df2-81df-954c5fb2cd0d)
+
 
 
 
